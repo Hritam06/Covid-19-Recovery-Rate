@@ -1,9 +1,8 @@
 # Covid-19-Recovery-Rate
 
-
 ### I have made this project to show the recovery rate of people of each state in India from COVID-19.
 
-### I have used 
+### You must have a basic knowledge about Numpy and Pandas. 
 
 
 ### You must install the following :-
